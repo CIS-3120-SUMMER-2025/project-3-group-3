@@ -69,5 +69,7 @@ Workflow Steps:
 
 ---
 
-## Gradio/Streamlit app public link
-- empty
+## Gradio app public link
+8/14/2025: https://1a2311001bfe3891d2.gradio.live
+
+This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
